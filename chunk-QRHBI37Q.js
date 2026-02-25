@@ -1,0 +1,1 @@
+import"./chunk-OXVY4BEJ.js";var o=[{path:"listar-persona-juridica",loadChildren:()=>import("./chunk-BJV74GK3.js")},{path:"configuracion",loadChildren:()=>import("./chunk-4SUQ75CH.js")}];export{o as default};
